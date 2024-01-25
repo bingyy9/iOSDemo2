@@ -1,0 +1,32 @@
+PODS:
+  - DynamicColor (4.2.0)
+  - R.swift (6.1.0):
+    - R.swift.Library (~> 5.3.0)
+  - R.swift.Library (5.3.0)
+  - SnapKit (5.6.0)
+  - TangramKit (1.4.2)
+
+DEPENDENCIES:
+  - DynamicColor
+  - R.swift
+  - SnapKit
+  - TangramKit
+
+SPEC REPOS:
+  trunk:
+    - DynamicColor
+    - R.swift
+    - R.swift.Library
+    - SnapKit
+    - TangramKit
+
+SPEC CHECKSUMS:
+  DynamicColor: c475f66bda1cabf602f2c54ac1171c0c07148a5a
+  R.swift: ec98ff71c4ab2f6fd01dd077e5afd15e63a4834c
+  R.swift.Library: 0fc583cb55a99e28901299cc451614cad1161962
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  TangramKit: aad3ab8f9617418c9da96d59cddd71134ae8af83
+
+PODFILE CHECKSUM: 5988eab44c72819142eeb9c850e185c22a33184d
+
+COCOAPODS: 1.14.3
